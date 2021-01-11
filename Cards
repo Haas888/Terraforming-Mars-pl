@@ -54,60 +54,60 @@
     "Equatorial Magnetizer": "Generator Pola Magnetycznego",
     "Action: Decrease your Energy production 1 step to increase your terraform rating 1 step.": "Akcja: Obniż swoją produkcję energii o 1 poziom, żeby podnieść swój współczynnik terraformacji o 1 poziom.",
 
-    "Domed Crater": "Купол над кратером",
-    "Oxygen must be 7% or less.": "Уровень кислорода должен быть не больше 7%",
-    "Gain 3 plants. Place a City tile. Decrease your Energy production 1 step and increase your MC production 3 steps.": " Получите 3 растения и постройте город. Производство энергии: -1; Доход: +3",
+    "Domed Crater": "Zadaszony Krater",
+    "Oxygen must be 7% or less.": "Poziom Tlenu musi być równy albo niższy niż 7%.",
+    "Gain 3 plants. Place a City tile. Decrease your Energy production 1 step and increase your MC production 3 steps.": "Otrzymujesz 3 jednostki roślinności. Umieść na planszy obszar miasta. Obniż swoją produkcję energii o 1 poziom i podnieś swoją produkcję MC o 3 poziomy.",
     
-    "Noctis City": "Город Ночи",
-    "Decrease your Energy production 1 step and increase your MC production 3 steps. Place a City ON THE RESERVED AREA, disregarding normal placement restrictions.": "Снизьте своё производство энергии на 1 и повысьте свой доход на 3. Постройте город на зарезервированном участке, независимо от стандартных требований к строительству города.",
+    "Noctis City": "Noctis City",
+    "Decrease your Energy production 1 step and increase your MC production 3 steps. Place a City ON THE RESERVED AREA, disregarding normal placement restrictions.": "Obniż swoją produkcję energii o 1 poziom i podnieś swoją produkcję MC o 3 poziomy. Umieść obszar miasta na planszy, na polu zarezerwowanym dla Noctis City, ignorując normalne ograniczenia umieszczania obszarów.",
 
-    "Methane from Titan": "Метан с Титана",
-    "Requires 2% oxygen. Increase your heat production 2 steps and your Plant production 2 steps.": "Уровень кислорода должен быть 2%. Повысьте своё производство тепла на 2 и производство растений на 2.",
+    "Methane from Titan": "Metan z Tytana",
+    "Requires 2% oxygen. Increase your heat production 2 steps and your Plant production 2 steps.": "Poziom Tlenu musi być równy albo wyższy niż 2%. Podnieś swoją produkcję ciepła i roślinności o 2 poziomy.",
 
-    "Imported Hydrogen": "Импортированный водород",
-    "Gain 3 Plants, or add 3 Microbes or 2 Animals to ANOTHER card. Place an ocean tile.": "Получите 3 растения или же положите 3 жетона бактерий или 2 жетона животных на другую карту. Выложите тайл океана.",
+    "Imported Hydrogen": "Importowany Wodór",
+    "Gain 3 Plants, or add 3 Microbes or 2 Animals to ANOTHER card. Place an ocean tile.": "Otrzymujesz 3 jednostki roślinności ALBO umieść na innej karcie 3 jednostki mikrobów ALBO 2 jednostki zwierząt. Umieść na planszy obszar oceanu.",
 
-    "Research Outpost": "Исследовательская станция",
-    "Effect: When you play a card, you pay 1 MC less for it.": "Свойство: когда играете карту, вы платите на 1 MC меньше.",
-    "Place a city tile NEXT TO NO OTHER TILE.": "Постройте город, не соседний ни с каким другим тайлом.",
+    "Research Outpost": "Placówka Naukowa",
+    "Effect: When you play a card, you pay 1 MC less for it.": "Efekt trwały: Gdy zagrywasz dowolną kartę, płacisz za nią o 1 MC mniej.",
+    "Place a city tile NEXT TO NO OTHER TILE.": "Umieść obszar miasta na planszy, na polu, które NIE SĄSIADUJE z innymi umieszczonymi już obszarami.",
 
-    "Phobos Space Haven": "Гавань на Фобосе",
-    "Increase your titanium production 1 step and place a City tile ON THE RESERVED AREA.": "Повысьте своё производство титана на 1. Постройте город на зарезервированном участке.",
+    "Phobos Space Haven": "Kosmiczna Przystań na Fobosie",
+    "Increase your titanium production 1 step and place a City tile ON THE RESERVED AREA.": "Podnieś swoją produkcję tytanu o 1 poziom. Umieść obszar miasta na planszy, na polu zarezerwowanym dla Kosmicznej Przystani na Fobosie.",
 
-    "Black Polar Dust": "Чёрный порошок на полюсе",
-    "Place an ocean tile. Decrease your MC production 2 steps and increase your heat production 3 steps.": "Выложите тайл океана. Снизьте свой доход на 2 и повысьте своё производство тепла на 3.",
+    "Black Polar Dust": "Czarny Pył Polarny",
+    "Place an ocean tile. Decrease your MC production 2 steps and increase your heat production 3 steps.": "Umieść na planszy obszar oceanu. Obniż swoją produkcję MC o 2 poziomy i podnieś swoją produkcję ciepła o 3 poziomy.",
 
-    "Arctic Algae": "Арктические водоросли",
-    "Effect: When anyone places an ocean tile, gain 2 Plants.": "Свойство: когда любой игрок выкладывает тайл океана, вы получаете 2 растения.",
-    "It must be -12 C or colder to play. Gain 1 Plant.": "Температура должна быть -12 градусов или ниже. Получите 1 растение.",
+    "Arctic Algae": "Algi Arktyczne",
+    "Effect: When anyone places an ocean tile, gain 2 Plants.": "Efekt trwały: Gdy dowolny gracz umieści na planszy obszar oceanu, otrzymujesz 2 jednostki roślinności.",
+    "It must be -12 C or colder to play. Gain 1 Plant.": "Temperatura musi być równa albo niższa niż -12°C. Otrzymujesz 1 jednostkę roślinności.",
 
-    "Predators": "Хищники",
-    "Action: Remove 1 Animal from any card and add it to this card.": "Действие: удалите 1 жетон животных с любой карты и положите на эту карту 1 жетон животных.",
-    "Requires 11% oxygen. 1 VP per Animal on this card.": "Уровень кислорода должен быть 11%. 1 ПО за каждый жетон животных на этой карте.",
+    "Predators": "Drapieżniki",
+    "Action: Remove 1 Animal from any card and add it to this card.": "Akcja: Usuń 1 jednostkę zwierząt z innej karty dowolnego gracza i umieść ją na tej karcie.",
+    "Requires 11% oxygen. 1 VP per Animal on this card.": "Poziom Tlenu musi być równy albo wyższy niż 11%. Otrzymujesz po 1 VP za każdą znajdującą się na tej karcie jednostkę zwierząt.",
 
-    "Space Station": "Космическая станция",
-    "Effect: When you play a Space card, you pay 2 MC less for it.": "Свойство: когда играете карту с символом космоса, вы платите на 2 MC меньше.",
+    "Space Station": "Stacja Kosmiczna",
+    "Effect: When you play a Space card, you pay 2 MC less for it.": "Efekt trwały: Gdy zagrywasz kartę z symbolem przestrzeni kosmicznej, płacisz za nią o 2 MC mniej.",
 
-    "Eos Chasma National Park": "Национальный парк в каньоне Эос",
-    "Requires -12 C or warmer. Add 1 Animal TO ANY ANIMAL CARD. Gain 3 Plants. Increase your MC production 2 steps.": "Температура должна быть -12 градусов или выше. Положите 1 жетон животных на любую карту с символом животных. Получите 3 растения. Повысьте свой доход на 2.",
+    "Eos Chasma National Park": "Park Narodowy w Eos Chasma",
+    "Requires -12 C or warmer. Add 1 Animal TO ANY ANIMAL CARD. Gain 3 Plants. Increase your MC production 2 steps.": "Temperatura musi być równa albo wyższa niż -12°C. Umieść 1 jednostkę zwierząt na dowolnej karcie z symbolem zwierząt. Otrzymujesz 3 jednostki roślinności. Podnieś swoją produkcję MC o 2 poziomy.",
 
-    "Interstellar Colony Ship": "Межзвёздный корабль-колония",
+    "Interstellar Colony Ship": "Międzygwiezdny Statek Kolonizacyjny",
 
-    "Security Fleet": "Флот охраны",
-    "Action: Spend 1 titanium to add 1 fighter resource to this card.": "Действие: потратьте 1 титан, чтобы положить жетон истребителя на эту карту.",
-    "1 VP for each fighter resource on this card.": "1 ПО за каждый жетон истребителя на этой карте.",
+    "Security Fleet": "Flota Obronna",
+    "Action: Spend 1 titanium to add 1 fighter resource to this card.": "Akcja: Wydaj 1 jednostkę tytanu, żeby umieścić na tej karcie 1 jednostkę myśliwców.",
+    "1 VP for each fighter resource on this card.": "Otrzymujesz po 1 VP za każdą znajdującą się na tej karcie jednostkę myśliwców.",
 
-    "Cupola City": "Город под куполом",
-    "Oxygen must be 9% or less. Place a City tile. Decrease your Energy production 1 step and increase your MC production 3 steps.": "Уровень кислорода должен быть 9% или ниже. Постройте город. Снизьте своё производство энергии на 1 и повысьте свой доход на 3.",
+    "Cupola City": "Miasto pod Kopułą",
+    "Oxygen must be 9% or less. Place a City tile. Decrease your Energy production 1 step and increase your MC production 3 steps.": "Poziom Tlenu musi być równy albo niższy niż 9%. Umieść na planszy obszar miasta. Obniż swoją produkcję energii o 1 poziom i podnieś swoją produkcję MC o 3 poziomy.",
     
-    "Lunar Beam": "Лунный луч",
-    "Decrease your MC production 2 steps and increase your heat production and Energy production 2 steps each.": "Снизьте свой доход на 2 и повысьте своё производство тепла и производство энергии на 2.",
+    "Lunar Beam": "Wiązka z Księżyca",
+    "Decrease your MC production 2 steps and increase your heat production and Energy production 2 steps each.": "Obniż swoją produkcję MC o 2 poziomy i podnieś swoją produkcję ciepła i energii o 2 poziomy.",
 
-    "Optimal Aerobraking": "Оптимальное аэроторможение",
-    "Effect: When you play a Space Event, you gain 3 MC and 3 heat.": "Свойство: когда вы играете карту события с символом космоса, вы получаете 3 MC и 3 тепла.",
+    "Optimal Aerobraking": "Optymalne Hamowanie Aerodynamiczne",
+    "Effect: When you play a Space Event, you gain 3 MC and 3 heat.": "Efekt trwały: Gdy zagrywasz kartę wydarzenia z symbolem przestrzeni kosmicznej, otrzymujesz 3 MC i 3 jednostki ciepła.",
 
-    "Underground City": "Подземный город",
-    "Place a City tile. Decrease your Energy production 2 steps and increase your steel production 2 steps.": "Постройте город. Снизьте своё производство энергии на 2 и повысьте своё производство стали на 2.",
+    "Underground City": "Podziemne miasto",
+    "Place a City tile. Decrease your Energy production 2 steps and increase your steel production 2 steps.": "Umieść na planszy obszar miasta. Obniż swoją produkcję energii o 2 poziomy i podnieś swoją produkcję stali o 2 poziomy.",
 
     "Regolith Eaters": "Пожиратели реголита",
     "Action: Add 1 Microbe to this card, or remove 2 Microbes from this card to raise oxygen level 1 step.": "Действие: положите жетон бактерий на эту карту или сбросьте 2 жетона бактерий с этой карты, чтобы повысить уровень кислорода на 1.",
