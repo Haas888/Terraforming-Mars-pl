@@ -484,85 +484,86 @@
     "Insulation": "Изоляционные материалы",
     "Decrease your heat production any number of steps and increase your MC production the same number of steps.": "Снизьте своё производство тепла на любое число и на столько же повысьте свой доход.",
 
-    "Adaptation Technology": "Технология адаптации",
-    "Effect: Your global requirements are +2 or -2 steps, your choice in each case.": "Свойство: ваши требования к температуре, кислороду и океанам – +2 или -2, вы каждый раз выбираете.",
+    "Adaptation Technology": "Technologia Adaptacji",
+    "Effect: Your global requirements are +2 or -2 steps, your choice in each case.": "Efekt trwały: Zagrywając karty, możesz traktować wybrane Wskaźniki Globalne tak, jakby były o 2 poziomy wyższe albo niższe.",
 
-    "Caretaker Contract": "Договор попечительства",
-    "Action: Spend 8 heat to increase your terraform rating 1 step.": "Действие: потратьте 8 тепла, чтобы повысить свой рейтинг на 1.",
-    "Requires 0 C or warmer.": "Температура должна быть 0 градусов или выше.",
+    "Caretaker Contract": "Kontrakt Nadzorczy",
+    "Action: Spend 8 heat to increase your terraform rating 1 step.": "Akcja: Wydaj 8 jednostek ciepła, żeby podnieść swój współczynnik terraformacji o 1.",
+    "Requires 0 C or warmer.": "Temperatura musi być równa albo wyższa o 0°C.",
 
-    "Designed Micro-organisms": "Искусственные микроорганизмы",
-    "It must be -14 C or colder. Increase your Plant production 2 steps.": "Температура должна быть -14 или ниже. Повысьте своё производство растений на 2.",
+    "Designed Micro-organisms": "Zaprojektowane Mikroorganizmy",
+    "It must be -14 C or colder. Increase your Plant production 2 steps.": "Temperatura musi być równa albo niższa niż -14°C. Podnieś swoją produkcję roślinności o 2 poziomy.",
 
-    "Standard Technology": "Стандартные технологии",
-    "Effect: After you pay for a standard project, except selling patents, you gain 3 MC.": "Свойство: после того как вы оплатите стандартный проект, кроме «продажи патентов», получите 3 MC.",
+    "Standard Technology": "Standardowa Technologia",
+    "Effect: After you pay for a standard project, except selling patents, you gain 3 MC.": "Efekt trwały: Za każdym razem, gdy zapłacisz za projekt standardowy (nie licząc sprzedaży patentów), otrzymasz 3 MC.",
 
-    "Nitrite Reducing Bacteria": "Бактерия, перерабатывающая нитриты",
-    "Action: Add 1 Microbe to this card, or remove 3 Microbes to increase your TR 1 step.": "Действие: положите жетон бактерий на эту карту или сбросьте 3 жетона бактерий, чтобы повысить свой рейтинг на 1.",
-    "Add 3 Microbes to this card.": "Положите 3 жетона бактерий на эту карту.",
+    "Nitrite Reducing Bacteria": "Bakterie Rozkładające Azotany",
+    "Action: Add 1 Microbe to this card, or remove 3 Microbes to increase your TR 1 step.": "Akcja: Umieść na tej karcie 1 jednostkę mikrobów albo usuń z tej karty 3 jednostki mikrobów i podnieś o 1 swój współczynnik terraformacji.",
+    "Add 3 Microbes to this card.": "Umieść na tej karcie 3 jednostki mikrobów.",
 
-    "Industrial Microbes": "Промышленные микробы",
-    "Increase your Energy production and your steel production 1 step each.": "Повысьте своё производство энергии и производство стали на 1.",
+    "Industrial Microbes": "Mikroby Przemysłowe",
+    "Increase your Energy production and your steel production 1 step each.": "Podnieś swoją produkcję energii i stali o 1 poziom.",
 
-    "Lichen": "Лишайник",
-    "Requires -24 C or warmer. Increase your Plant production 1 step.": "Температура должна быть -24 или выше. Повысьте своё производство растений на 1.",
+    "Lichen": "Porosty",
+    "Requires -24 C or warmer. Increase your Plant production 1 step.": "Temperatura musi być równa lub wyższa niż -24°C. Podnieś swoją produkcję roślinności o 1 poziom.",
 
-    "Power Supply Consortium": "Консорциум энергокомпаний",
-    "Requires 2 Power tags. Decrease any Energy production 1 step and increase your own 1 step.": "Необходимо 2 символа энергии. Снизьте у любого игрока производство энергии на 1 и повысьте своё производство энергии на 1.",
+    "Power Supply Consortium": "Konsorcjum Energetyczne",
+    "Requires 2 Power tags. Decrease any Energy production 1 step and increase your own 1 step.": "Musisz posiadać przynajmniej 2 symbole energii. Obniż produkcję energii dowolnego gracza o 1 poziom. Podnieś swoją produkcję energii o 1 poziom.",
 
-    "Convoy From Europa": "Конвой с Европы",
-    "Place 1 ocean tile and draw 1 card.": "Выложите 1 тайл океана и возьмите 1 карту.",
+    "Convoy From Europa": "Konwój z Europy",
+    "Place 1 ocean tile and draw 1 card.": "Umieść na planszy obszar oceanu i dobierz 1 kartę.",
 
-    "Imported GHG": "Импортированный парниковый газ",
-    "Increase your heat production 1 step and gain 3 heat.": "Повысьте своё производство тепла на 1 и получите 3 тепла.",
+    "Imported GHG": "Importowane Gazy Cieplarniane",
+    "Increase your heat production 1 step and gain 3 heat.": "Podnieś swoją produkcję ciepła o 1 poziom. Otrzymujesz 3 jednostki ciepła.",
 
-    "Imported Nitrogen": "Импортированный азот",
-    "Raise your TR 1 step and gain 4 Plants. Add 3 Microbes to ANOTHER card and 2 Animals to ANOTHER card.": "Повысьте свой рейтинг на 1 и получите 4 растения. Добавьте 3 жетона бактерий на другую карту и 2 жетона животных на другую карту.",
+    "Imported Nitrogen": "Importowany Azot",
+    "Raise your TR 1 step and gain 4 Plants. Add 3 Microbes to ANOTHER card and 2 Animals to ANOTHER card.": "Podnieś swój współczynnik terraformacji o 1. Otrzymujesz 4 jednostki roślinności. Umieść na innej karcie do 3 jednostek mikrobów. Umieść na innej karcie do 2 jednostek zwierząt.",
 
-    "Micro-Mills": "Микроветряки",
-    "Increase your heat production 1 step.": "Повысьте своё производство тепла на 1.",
+    "Micro-Mills": "Mikrowiatraki",
+    "Increase your heat production 1 step.": "Podnieś swoją produkcję ciepła o 1 poziom.",
 
-    "Magnetic Field Generators": "Генераторы магнитного поля",
-    "Decrease your Energy production 4 steps and increase your Plant production 2 steps. Raise your TR 3 steps.": "Снизьте своё производство энергии на 4 и повысьте своё производство растений на 2. Повысьте свой рейтинг на 3.",
+    "Magnetic Field Generators": "Generatory Pola Magnetycznego",
+    "Decrease your Energy production 4 steps and increase your Plant production 2 steps. Raise your TR 3 steps.": "Obniż swoją produkcję energii o 4 poziomy. Podnieś swoją produkcję roślinności o 2 poziomy. Podnieś swój współczynnik terraformacji o 3.",
 
-    "Shuttles": "Воздушный транспорт",
-    "Requires 5% oxygen. Decrease your Energy production 1 step and increase your MC production 2 steps.": "Уровень кислорода должен быть 5%. Снизьте своё производство энергии на 1 и повысьте доход на 2.",
+    "Shuttles": "Promy",
+    "Effect: When you play a Space card, you pay 2 MC less for it.": "Efekt trwały: Gdy zagrywasz kartę z symbolem przestrzeni kosmicznej, płacisz za nią o 2 MC mniej."
+    "Requires 5% oxygen. Decrease your Energy production 1 step and increase your MC production 2 steps.": "Poziom Tlenu musi być równy albo wyższy niż 5%. Obniż swoją produkcję energii o 1 poziom. Podnieś swoją produkcję MC o 2 poziomy.",
 
-    "Import of Advanced GHG": "Импорт улучшенного парникового газа",
-    "Increase your heat production 2 steps.": "Повысьте своё производство тепла на 2.",
+    "Import of Advanced GHG": "Zaawansowane Gazy Cieplarniane",
+    "Increase your heat production 2 steps.": "Podnieś swoją produkcję ciepła o 2 poziomy.",
 
-    "Windmills": "Ветряные электростанции",
-    "Requires 7% oxygen. Increase your Energy production 1 step.": "Уровень кислорода должен быть 7%. Повысьте своё производство энергии на 1.",
+    "Windmills": "Turbiny Wiatrowe",
+    "Requires 7% oxygen. Increase your Energy production 1 step.": "Poziom Tlenu musi być równy albo większy niż 7%. Podnieś swoją produkcję energii o 1 poziom.",
 
-    "Tundra Farming": "Земледелие в тундре",
-    "Requires -6 C or warmer. Increase your Plant production 1 step and your MC production 2 steps. Gain 1 Plant.": "Температура должна быть -6 или выше. Повысьте своё производство растений на 1, а доход – на 2. Получите 1 растение.",
+    "Tundra Farming": "Rolnictwo Tundrowe",
+    "Requires -6 C or warmer. Increase your Plant production 1 step and your MC production 2 steps. Gain 1 Plant.": "Temperatura musi być równa albo wyższa niż -6°C. Podnieś swoją produkcję roślinności o 1 poziom. Podnieś swoją produkcję MC o 2 poziomy. Otrzymujesz 1 jednostkę roślinności.",
 
-    "Aerobraked Ammonia Asteroid": "Торможение аммиачного астероида",
-    "Add 2 Microbes to ANOTHER card. Increase your heat production 3 steps and your Plant productions 1 step.": "Положите 2 жетона бактерий на другую карту. Повысьте своё производство тепла на 3 и производство растений на 1.",
+    "Aerobraked Ammonia Asteroid": "Asteroida Bogata w Amoniak",
+    "Add 2 Microbes to ANOTHER card. Increase your heat production 3 steps and your Plant productions 1 step.": "Umieść na innej karcie do 2 jednostek mikrobów. Podnieś swoją produkcję ciepła o 3 poziomy. Podnieś swoją produkcję roślinności o 1 poziom.",
 
-    "Magnetic Field Dome": "Купол с магнитным полем",
-    "Decrease your Energy production 2 steps and increase your Plant production 1 step. Raise your TR 1 step.": "Снизьте своё производство энергии на 2 и повысьте своё производство растений на 1. Повысьте свой рейтинг на 1.",
+    "Magnetic Field Dome": "Kopuła z Polem Magnetycznym.",
+    "Decrease your Energy production 2 steps and increase your Plant production 1 step. Raise your TR 1 step.": "Obniż swoją produkcję energii o 2 poziomy. Podnieś swoją produkcję roślinności o 1 poziom. Podnieś swój współczynnik terraformacji o 1.",
 
-    "Pets": "Домашние любимцы",
-    "ANIMALS MAY NOT BE REMOVED FROM THIS CARD": "Животных с этой карты удалять нельзя!",
-    "Effect: When any City tile is placed, add an Animal to this card.": "Свойство: когда любой игрок строит город, вы кладёте жетон животных на эту карту.",
-    "Add 1 Animal to this card. 1 VP per 2 Animals here.": "Положите 1 животное на эту карту. 1 ПО за каждые два животных на этой карте.",
+    "Pets": "Zwierzęta Domowe",
+    "ANIMALS MAY NOT BE REMOVED FROM THIS CARD": "Z TEJ KARTY NIE MOŻNA USUWAĆ JEDNOSTEK ZWIERZĄT.",
+    "Effect: When any City tile is placed, add an Animal to this card.": "Efekt trwały: Za każdym razem, gdy któryś z graczy umieści na planszy obszar miasta, umieść na tej karcie 1 jednostkę zwierząt.",
+    "Add 1 Animal to this card. 1 VP per 2 Animals here.": "Umieść na tej karcie 1 jednostkę zwierząt. Otrzymujesz po 1 VP za każde 2 znajdujące się na tej karcie jednostki zwierząt.",
 
-    "Protected Habitats": "Защищённая среда обитания",
-    "OPPONENTS MAY NOT REMOVE YOUR": "Противники не могут удалять ваши.",
+    "Protected Habitats": "Chronione Siedliska",
+    "OPPONENTS MAY NOT REMOVE YOUR": "PRZECIWNICY NIE MOGĄ USUWAĆ TWOICH",
 
-    "Protected Valley": "Защищённая долина",
-    "Increase your MC production 2 steps. Place a greenery tile ON AN AREA RESERVED FOR OCEAN, disregarding normal placement restrictions, and increase oxygen 1 step.": "Повысьте свой доход на 2. Проведите озеленение зарезервированного для океана участка, игнорируя правила проведения озеленений, и повысьте уровень кислорода на 1.",
+    "Protected Valley": "Chroniona Dolina",
+    "Increase your MC production 2 steps. Place a greenery tile ON AN AREA RESERVED FOR OCEAN, disregarding normal placement restrictions, and increase oxygen 1 step.": "Podnieś swoją produkcję MC o 2 poziomy. Umieść obszar zieleni na planszy, NA POLU ZAREZERWOWANYM DLA OBSZARU OCEANU, ignorując normalne ograniczenia umieszczania obszarów. Podnieś Poziom Tlenu o 1%.",
     
-    "Satellites": "Спутники",
-    "Increase your MC production 1 step for each space tag you have, including this one.": "Повысьте свой доход на 1 за каждый символ космоса на ваших картах, включая эту.",
+    "Satellites": "Satelity",
+    "Increase your MC production 1 step for each space tag you have, including this one.": "Podnieś swoją produkcję MC o 1 poziom za każdy posiadany symbol przestrzeni kosmicznej (z tym włącznie).",
 
-    "Noctis Farming": "Земледелие в Лабиринте Ночи",
-    "Requires -20 C or warmer. Increase your MC production 1 step and gain 2 Plants.": "Температура должна быть -20 или выше. Повысьте свой доход на 1 и получите 2 растения.",
+    "Noctis Farming": "Rolnictwo w Noctis Labyrinthus",
+    "Requires -20 C or warmer. Increase your MC production 1 step and gain 2 Plants.": "Temperatura musi być równa albo wyższa niż -20°C. Podnieś swoją produkcję MC o 1 poziom. Otrzymujesz 2 jednostki roślinności.",
 
-    "Water Splitting Plant": "Фабрика по расщеплению воды",
-    "Action: Spend 3 Energy to raise oxygen 1 step.": "Действие: потратьте 3 энергии, чтобы повысить уровень кислорода на 1.",
-    "Requires 2 ocean tiles.": "Необходимо 2 тайла океана.",
+    "Water Splitting Plant": "Zakład Elektrolizy",
+    "Action: Spend 3 Energy to raise oxygen 1 step.": "Akcja: Wydaj 3 jednostki energii, żeby podnieść Poziom Tlenu o 1%.",
+    "Requires 2 ocean tiles.": "Na planszy muszą się znajdować przynajmniej dwa obszary oceanów.",
 
     "Heat Trappers": "Теплоуловители",
     "Decrease any heat production 2 steps and increase your Energy production 1 step.": "Снизьте производство тепла у любого игрока на 2 и повысьте своё производство энергии на 1.",
