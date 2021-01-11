@@ -109,31 +109,31 @@
     "Underground City": "Podziemne miasto",
     "Place a City tile. Decrease your Energy production 2 steps and increase your steel production 2 steps.": "Umieść na planszy obszar miasta. Obniż swoją produkcję energii o 2 poziomy i podnieś swoją produkcję stali o 2 poziomy.",
 
-    "Regolith Eaters": "Пожиратели реголита",
-    "Action: Add 1 Microbe to this card, or remove 2 Microbes from this card to raise oxygen level 1 step.": "Действие: положите жетон бактерий на эту карту или сбросьте 2 жетона бактерий с этой карты, чтобы повысить уровень кислорода на 1.",
+    "Regolith Eaters": "Bakterie Regolitożerne",
+    "Action: Add 1 Microbe to this card, or remove 2 Microbes from this card to raise oxygen level 1 step.": "Akcja: Umieść na tej karcie 1 jednostkę mikrobów albo usuń z tej karty 2 jednostki mikrobów i podnieś Poziom Tlenu o 1%.",
 
-    "GHG Producing Bacteria": "Бактерии, выделяющие парниковые газы",
-    "Action: Add 1 Microbe to this card, or remove 2 Microbes to raise temperature 1 step.": "Действие: положите жетон бактерий на эту карту или сбросьте 2 жетона бактерий с этой карты, чтобы повысить температуру на 1.",
-    "Requires 4% oxygen.": "Уровень кислорода должен быть 4%.",
+    "GHG Producing Bacteria": "Bakterie Produkujące Gazy Cieplarniane",
+    "Action: Add 1 Microbe to this card, or remove 2 Microbes to raise temperature 1 step.": "Akcja: Umieść na tej karcie 1 jednostkę mikrobów albo usuń z tej karty 2 jednostki mikrobów i podnieś Temperaturę o 2°C.",
+    "Requires 4% oxygen.": "Poziom Tlenu musi być równy albo wyższy niż 4%.",
 
-    "Ants": "Муравьи",
-    "Action: Remove 1 Microbe from any card to add 1 to this card.": "Действие: удалите 1 жетон бактерий с любой карты и положите на эту карту 1 жетон бактерий.",
-    "Requires 4% oxygen. 1 VP per 2 Microbes on this card.": "Уровень кислорода должен быть 4%. 1 ПО за каждые 2 жетона бактерий на этой карте.",
+    "Ants": "Mrówki",
+    "Action: Remove 1 Microbe from any card to add 1 to this card.": "Akcja: Usuń do 1 jednostkę mikrobów z innej karty dowolnego gracza i umieść ją na tej karcie.",
+    "Requires 4% oxygen. 1 VP per 2 Microbes on this card.": "Poziom Tlenu musi być równy albo wyższy niż 4%. Otrzymujesz 1 VP za każde 2 znajdujące się na tej karcie jednostki mikrobów.",
 
-    "Release of Inert Gases": "Высвобождение инертных газов",
-    "Raise your terraform rating 2 steps.": "Повысьте свой рейтинг на 2.",
+    "Release of Inert Gases": "Wypuszczenie Gazów Obojętnych",
+    "Raise your terraform rating 2 steps.": "Podnieś swój współczynnik terraformacji o 2.",
 
-    "Nitrogen-Rich Asteroid": "Богатый азотом астероид",
-    "Raise your terraforming rating 2 steps and temperature 1 step. Increase your Plant production 1 step, or 4 steps if you have 3 Plant tags.": "Повысьте свой рейтинг на 2 и температуру на 1. Повысьте своё производство растений на 1 или, если у вас есть 3 символа растений, на 4.",
+    "Nitrogen-Rich Asteroid": "Asteroida Bogata w Azot",
+    "Raise your terraforming rating 2 steps and temperature 1 step. Increase your Plant production 1 step, or 4 steps if you have 3 Plant tags.": "Podnieś swój współczynnik terraformacji o 2. Podnieś Temperaturę o 2°C. Podnieś swoją produkcję roślinności o 1 poziom albo, jesli posiadasz 3 symbole roślinności, o 4 poziomy.",
     
-    "Rover Construction": "Создание планетохода",
-    "Effect: When any City tile is placed, gain 2 MC.": "Свойство: когда любой игрок строит город, вы получаете 2 MC.",
+    "Rover Construction": "Fabryka Łazików",
+    "Effect: When any City tile is placed, gain 2 MC.": "Efekt trwały: Za każdym razem, gdy któryś z graczy umieści na planszy obszar miasta, otrzymujesz 2 MC.",
 
-    "Deimos Down": "Падение Деймоса",
-    "Raise temperature 3 steps and gain 4 steel. Remove up to 8 Plants from any player.": "Повысьте температуру на 3 и получите 4 стали. Удалите до 8 растений у любого игрока.",
+    "Deimos Down": "Upadek Deimosa",
+    "Raise temperature 3 steps and gain 4 steel. Remove up to 8 Plants from any player.": "Podnieś Temperaturę o 6°C. Otrzymujesz 4 jednostki stali. Usuń do 8 jednostek roslinności dowolnego gracza.",
 
-    "Asteroid Mining": "Разработка астероидов",
-    "Increase your titanium production 2 steps.": "Повысьте своё производство титана на 2.",
+    "Asteroid Mining": "Górnictwo Kosmiczne",
+    "Increase your titanium production 2 steps.": "Podnieś swoją produkcję tytanu o 2 poziomy.",
 
     "Food Factory": "Пищевой комбинат",
     "Decrease your Plant production 1 step and increase your MC production 4 steps.": "Снизьте своё производство растений на 1 и повысьте свой доход на 4.",
