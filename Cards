@@ -13,8 +13,8 @@
     "Requires 3 ocean tiles. Decrease your MC production 1 step and any heat production 1 step. Increase your Plant production 2 steps.": "Na planszy muszą się znajdować przynajmniej 3 obszary oceanów. Obniż swoją produkcję MC i produkcję ciepła dowolnego gracza o 1 poziom. Podnieś swoją produkcję roślinności o 2 poziomy.",
     
     "Search for Life": "Poszukiwania Życia",
-    "Action: Spend 1 MC to reveal the top card of the draw deck. If that card has a Microbe tag, add a Science resource here.": "Akcja: Zapłać 1MC, żeby odkryć i odrzucić wierzchnią kartę z talii. Jeśli odkryjesz kartę z symbolem mikrobów, umieść tu 1 jednostkę nauki.",
-    "3 VPs if you have one or more Science resources here.": "Jeśli na tej karcie znajduje się przynajmniej 1 jednostka nauki, otrzymujesz 1 PZ",
+    "Action: Spend 1 MC to reveal the top card of the draw deck. If that card has a Microbe tag, add a Science resource here.": "Akcja: Zapłać 1 MC, żeby odkryć i odrzucić wierzchnią kartę z talii. Jeśli odkryjesz kartę z symbolem mikrobów, umieść tu 1 jednostkę nauki.",
+    "3 VPs if you have one or more Science resources here.": "Jeśli na tej karcie znajduje się przynajmniej 1 jednostka nauki, otrzymujesz 1 VP",
     
     "Inventors' Guild": "Gildia Wynalazców",
     "ACTION: LOOK AT THE TOP CARD AND EITHER BUY IT OR DISCARD IT": "AKCJA: PODEJRZYJ WIERZCHNIĄ KARTĘ Z TALII PROJETKÓW, A NASTĘPNIE KUP JĄ ALBO ODRZUĆ.",
@@ -29,30 +29,30 @@
     "5 Oceans": "5 Oceanów",
     "6 Oceans": "6 Oceanów",
     "Requires 4 ocean tiles. Place this tile. Decrease your Energy production 2 steps and increase your MC production 5 steps.": "Na planszy muszą się znajdować przynajmniej 4 obszary oceanów. Umieść ten obszar na planszy. Obniż swoją produkcję energii o 2 poziomy. Podnieś swoją produkcję MC o 5 poziomów.",
-    "1 ADDITIONAL VP FOR EACH OCEAN TILE ADJACENT TO THIS CITY TILE.": "OTRZYMUJESZ PO 1 PZ ZA KAŻDY OBSZAR OCEANU SĄSIADUJĄCY Z TYM OBSZAREM.",
+    "1 ADDITIONAL VP FOR EACH OCEAN TILE ADJACENT TO THIS CITY TILE.": "OTRZYMUJESZ PO 1 VP ZA KAŻDY OBSZAR OCEANU SĄSIADUJĄCY Z TYM OBSZAREM.",
     
     "Asteroid": "Asteroida",
     "Raise temperature 1 step and gain 2 titanium. Remove up to 3 Plants from any player.": "Podnieś Temperaturę o 2°C. Otrzymujesz 2 jednostki tytanu. Usuń do 3 jednostek roślinności dowolnego gracza.",
 
-    "Comet": "Комета",
-    "Raise temperature 1 step and place an ocean tile. Remove up to 3 Plants from any player.": "Повысьте температуру на 1 и выложите тайл океана. Удалите до 3 растений у любого игрока.",
+    "Comet": "Kometa",
+    "Raise temperature 1 step and place an ocean tile. Remove up to 3 Plants from any player.": "Podnieś Temperaturę o 2°C i umieść na planszy obszar oceanu. Usuń do 3 jednostek roślinności dowolnego gracza.",
 
-    "Big Asteroid": "Большой астероид",
-    "Raise temperature 2 steps and gain 4 titanium. Remove up to 4 Plants from any player.": "Повысьте температуру на 2 и получите 4 титана. Удалите до 4 растений у любого игрока.",
+    "Big Asteroid": "Duża Asteroida",
+    "Raise temperature 2 steps and gain 4 titanium. Remove up to 4 Plants from any player.": "Podnieś Temperaturę o 4°C. Otrzymujesz 4 jednostki tytanu. Usuń do 4 jednostek roślinności dowolnego gracza.",
     
-    "Water Import from Europa": "Импорт воды с Европы",
-    "Action: Pay 12 MC to place an ocean tile. TITANIUM MAY BE USED as if playing a Space card.": "Действие: заплатите 12 MC, чтоб выложить тайл океана. Можно использовать титан для оплаты, как при игре карты с символом космоса.",
-    "1 VP for each Jovian tag you have.": "1 ПО за каждый ваш символ Юпитера.",
+    "Water Import from Europa": "Import Wody z Europy",
+    "Action: Pay 12 MC to place an ocean tile. TITANIUM MAY BE USED as if playing a Space card.": "Akcja: Zapłać 12 MC, żeby umieścić na planszy obszar oceanu. Możesz użyć jednostek tytanu, tak jakbyś zagrywał kartę z symbolem przestrzeni kosmicznej.",
+    "1 VP for each Jovian tag you have.": "Otrzymujesz po 1 VP za każdy posiadany symbol Jowisza.",
 
-    "Space Elevator": "Космический лифт",
-    "Action: Spend 1 steel to gain 5 MC.": "Действие: потратьте 1 сталь, чтобы получить 5 MC.",
-    "Increase your titanium production 1 step.": "Повысьте своё производство титана на 1.",
+    "Space Elevator": "Winda Kosmiczna",
+    "Action: Spend 1 steel to gain 5 MC.": "Akcja: Wydaj 1 jednostkę stali, żeby otrzymać 5 MC.",
+    "Increase your titanium production 1 step.": "Podnieś swoją produkcję tytanu o 1 poziom.",
 
-    "Development Center": "Центр разработки",
-    "Action: Spend 1 Energy to draw a card.": "Действие: потратьте 1 энергию, чтобы взять 1 карту.",
+    "Development Center": "Centrum Rozwoju",
+    "Action: Spend 1 Energy to draw a card.": "Akcja: Wydaj 1 jednostkę energii, żeby dobrać 1 kartę.",
 
-    "Equatorial Magnetizer": "Искусственное магнитное поле",
-    "Action: Decrease your Energy production 1 step to increase your terraform rating 1 step.": "Действие: снизьте своё производство энергии на 1, чтобы повысить свой рейтинг на 1.",
+    "Equatorial Magnetizer": "Generator Pola Magnetycznego",
+    "Action: Decrease your Energy production 1 step to increase your terraform rating 1 step.": "Akcja: Obniż swoją produkcję energii o 1 poziom, żeby podnieść swój współczynnik terraformacji o 1 poziom.",
 
     "Domed Crater": "Купол над кратером",
     "Oxygen must be 7% or less.": "Уровень кислорода должен быть не больше 7%",
