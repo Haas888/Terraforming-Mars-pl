@@ -32,6 +32,10 @@
     "Set predefined game": "Ustaw predefiniowaną rozgrywkę",
     
     "Promos": "Karty promo",
+    "Start typing the card name to exclude": "Wpisz nazwę karty do wykluczenia",
+    "TR Boost": "Boost WT",
+    "Player ${0} name": "Nazwa gracza ${0}",
+    "63 TR solo mode": "Tryb solo 63 WT",
     
     "Filter": "Filtr",
     "Custom Corporation list": "Niestandardowa lista korporacji",
