@@ -90,47 +90,38 @@
   "Action: Add 1 Floater to ANY card or spend 1 Floater here to draw 1 card":"Akcja: Umieść 1 jednostkę dryfowców na dowolnej karcie albo usuń 1 jednostkę dryfowców z tej karty, żeby dobrać kartę.",
   
   "Aerosport Tournament":"Turniej Aerosportowy",
-  "5 Floaters":"5 云资源",
-  "Requires that you have 5 Floaters. Gain 1 MC per each City tile in play":"需要你拥有5个云资源才能打出，游戏中的每个城市使你获得1元。",
+  "5 Floaters":"5 Dryfowców",
+  "Requires that you have 5 Floaters. Gain 1 MC per each City tile in play":"Musisz posiadać przynajmniej 5 jednostek dryfowców. Otrzymujesz po 1 MC za każdy obszar miasta na planszach.",
   
-  "Air-Scrapping Expedition":"金星改造远征队",
-  "Raise Venus 1 step. Add 3 Floaters to ANY Venus CARD":"提升1格金星改造度。放置3个云资源到任意带有金星标志的卡牌上。",
+  "Air-Scrapping Expedition":"Operacja Uzdatniania Atmosfery",
+  "Raise Venus 1 step. Add 3 Floaters to ANY Venus CARD":"Podnieś Współczynnik Terraformacji Wenus o 1 poziom. Umieść 3 jednostki dryfowców na dowolnej karcie z symbolem Wenus.",
   
-  "Atmoscoop":"大气束缚场",
-  "Requires 3 Science tags. Either raise the temperature 2 steps, or raise Venus 2 steps. Add 2 Floaters to ANY card":"需要你拥有3个科学标志才能打出。提升温度或金星改造度2格。放置2个云资源到任意卡牌上。",
+  "Atmoscoop":"Zagarniacz Atmosfery",
+  "Requires 3 Science tags. Either raise the temperature 2 steps, or raise Venus 2 steps. Add 2 Floaters to ANY card":"Musisz posiadać przynajmniej 3 symbole nauki. Podnieś Temperaturę o 4°C albo Współczynnik Terraformacji Wenus o 2 poziomy. Umieść 2 jednostki dryfowców na dowolnej karcie.",
   
-  "Comet for Venus":"飞向金星的彗星",
-  "Raise Venus 1 step. Remove up to 4MC from any player WITH A VENUS TAG IN PLAY.":"提升1格金星改造度。移除任意一位有金星标志的玩家4MC。",
+  "Comet for Venus":"Kometa dla Wenus",
+  "Raise Venus 1 step. Remove up to 4MC from any player WITH A VENUS TAG IN PLAY.":"Podnieś Współczynnik Terraformacji Wenus o 1 poziom. Usuń do 4 MC dowolnego gracza posiadajacego kartę z symbolem Wenus.",
   
-  "Increase your MC production 2 steps. Add 1 resource to ANY Venus CARD":"提升2点MC产能。在任意金星卡上添加一个资源",
+  "Dawn City":"Miasto Świtu",
+  "4 Science":"4 symbole Nauki",
+  "Requires 4 Science tags. Decrease your energy production 1 step. Increase your titanium production 1 step. Place a City tile on the RESERVED AREA":"Musisz posiadać przynajmniej 4 symbole nauki. Obniż swoją produkcję energii o 1 poziom. Podnieś swoją produkcję tytanu o 1 poziom. Umieść obszar miasta na planszy Wenus, na polu zarezerwowanym dla Miasta Świtu.",
   
-  "Dawn City":"拂晓之城",
-  "4 Science":"4 科学标志",
-  "Requires 4 Science tags. Decrease your energy production 1 step. Increase your titanium production 1 step. Place a City tile on the RESERVED AREA":"需要你拥有4个科学标志才能打出。减少1点电力产能，提升1点钛产能。放置一个城市版块到保留区。",
-  
-  "Deuterium Export":"输出氘",
-  "Action: add 1 Floater to this card OR spend 1 Floater here to increase your energy production 1 step":"行动：放置1个云资源到本卡上，或移除本卡上1个云资源以提升1点电力产能。",
+  "Deuterium Export":"Eksport Deuteru",
+  "Action: add 1 Floater to this card OR spend 1 Floater here to increase your energy production 1 step":"Akcja: Umieść na tej karcie 1 jednostkę dryfowców albo usuń z tej karty 1 jednostkę dryfowców i podnieś swoją produkcję energii o 1 poziom.",
 
-  "Extractor Balloons":"热气球提取器",
-  "Action: add 1 Floater to this card, or remove 2 Floaters here to raise Venus 1 step":"行动：放置1个云资源到本卡上，或移除本卡上2个云资源以提升金星改造度1格。",
-  "Add 3 Floaters to this card":"打出时，放置3个云资源到本卡上。",
+  "Extractor Balloons":"Balony Wydobywcze",
+  "Action: add 1 Floater to this card, or remove 2 Floaters here to raise Venus 1 step":"Akcja: Umieść na tej karcie 1 jednostkę dryfowców albo usuń z tej karty 2 jednostki dryfowców i podnieś Współczynnik Terraformacji Wenus o 1 poziom.",
+  "Add 3 Floaters to this card":"Umieść 3 jednostki dryfowców na tej karcie.",
   
-  "Requires 2 Science tags. 1 VP for every 3rd Microbe on this card":"需要你拥有2个科学标志才能打出。本卡上每3个微生物资源为你提供1VP。",
+  "Forced Precipitation":"Wymuszone Opady Atmosferyczne",
+  "Action: Spend 2 MC to add 1 Floater to this card, OR spend 2 Floaters here to increase Venus 1 step":"Akcja: Zapłać 2 MC, żeby umieścić na tej karcie 1 jednostkę dryfowców, albo usuń z tej karty 2 jednostki dryfowców i podnieś Współczynnik Terraformacji Wenus o 1 poziom.",
   
-  "Action: spend 2 MC to add 1 Floater to ANY card":"行动：支付2元以放置1个云资源到任意卡牌上。",
+  "Freyja Biodomes":"Biokopuły we Freyja Montes",
+  "10% Venus":"10% Wenus",
+  "Requires 10% Venus. Add 2 Microbes or 2 Animals to another Venus card. Decrease your energy production 1 step and increase your MC production 2 steps":"Współczynnik Terraformacji Wenus musi być równy albo wyższy niż 10%. Umieść 2 jednostki mikrobów albo 2 jednostki zwierząt na innej karcie z symbolem Wenus. Obniż swoją produkcję energii o 1 poziom. Podnieś swoją produkcję MC o 2 poziomy.",
   
-  "Requires 2 Science tags. 1 VP for every 2nd Floater on this card":"需要你拥有2个科学标志才能打出。本卡上每2个云资源为你提供1VP。",
-  
-  "Forced Precipitation":"强制降水",
-  "Action: Spend 2 MC to add 1 Floater to this card, OR spend 2 Floaters here to increase Venus 1 step":"行动：支付2元以放置1个云资源到本卡上，或移除本卡上2个云资源以提升金星改造度1格。",
-  
-  "Freyja Biodomes":"弗雷雅生态馆",
-  
-  "10% Venus":"金星改造度 10%",
-  "Requires 10% Venus. Add 2 Microbes or 2 Animals to another Venus card. Decrease your energy production 1 step and increase your MC production 2 steps":"需要金星改造度达到10%才能打出。放置2个微生物或动物资源到任意带有金星标志的卡牌上。减少1点电力产能，提升2点金钱产能。",
-  
-  "Giant Solar Shade":"巨型日光遮蔽器",
-  "Raise Venus 3 steps":"提升金星改造度3格。",
+  "Giant Solar Shade":"Olbrzymia Osłona Przeciwsłoneczna",
+  "Raise Venus 3 steps":"Podnieś Współczynnik Terraformacji Wenus o 3 poziom.",
   
   "Raise Venus 1 step. Increase your heat production 3 steps":"提升金星改造度1格。提升3点热产能。",
   
