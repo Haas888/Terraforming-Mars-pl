@@ -83,24 +83,13 @@
   "Water to Venus":"Woda dla Wenus",
   "Raise Venus 1 step.":"Podnieś Współczynnik Terraformacji Wenus o 1 poziom.",
 
-  "Increase your MC production 1 step for each Earth tag you have, including this. Place a City tile on the RESERVED AREA.":"你每有1个地球标志，包括本卡，提升你的MC产能1级。在保留区放置一片城市。",
-
-  "Sky Docks":"太空码头",
-  "Requires 2 Earth tags. Gain 1 Trade Fleet.":"需要你有2个地球标志。获得一艘交易飞船。",
-
-  "Penguins":"企鹅",
-  "Requires 8 oceans. 1 VP for each animal on this card":"需要场上已有8片海洋。本牌每个动物价值1分",
-
-  "Interplanetary Colony Ship":"星际殖民船",
-
-  "GHG Import From Venus":"从金星导入温室气体",
-  "Raise Venus 1 step. Increase your heat production 3 steps.":"提升金星改造度1格。提升你的热能产能3级",
-
-
-  "Aerial Mappers":"航空制图器",
-  "Action: Add 1 Floater to ANY card or spend 1 Floater here to draw 1 card":"行动：放置1个云资源到任意卡牌上或移除本卡上1个云资源以抽1张卡。",
+  "GHG Import From Venus":"Import Gazów Cieplarnianych z Wenus",
+  "Raise Venus 1 step. Increase your heat production 3 steps.":"Podnieś Współczynnik Terraformacji Wenus o 1 poziom. Podnieś swoją produkcję ciepła o 3 poziomy.",
   
-  "Aerosport Tournament":"航空运动锦标赛",
+  "Aerial Mappers":"Mapowanie Przestworzy",
+  "Action: Add 1 Floater to ANY card or spend 1 Floater here to draw 1 card":"Akcja: Umieść 1 jednostkę dryfowców na dowolnej karcie albo usuń 1 jednostkę dryfowców z tej karty, żeby dobrać kartę.",
+  
+  "Aerosport Tournament":"Turniej Aerosportowy",
   "5 Floaters":"5 云资源",
   "Requires that you have 5 Floaters. Gain 1 MC per each City tile in play":"需要你拥有5个云资源才能打出，游戏中的每个城市使你获得1元。",
   
