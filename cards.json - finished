@@ -83,7 +83,7 @@
 
     "Predators": "Drapieżniki",
     "Action: Remove 1 Animal from any card and add it to this card.": "Akcja: Usuń 1 jednostkę zwierząt z innej karty dowolnego gracza i umieść ją na tej karcie.",
-    "Requires 11% oxygen. 1 VP per Animal on this card.": "Poziom Tlenu musi być równy albo wyższy niż 11%. Otrzymujesz po 1 VP za każdą znajdującą się na tej karcie jednostkę zwierząt.",
+    "Requires 11% oxygen. 1 VP per Animal on this card.": "Poziom Tlenu musi być równy albo wyższy niż 11%. Otrzymujesz po 1 PZ za każdą znajdującą się na tej karcie jednostkę zwierząt.",
 
     "Space Station": "Stacja Kosmiczna",
     "Effect: When you play a Space card, you pay 2 MC less for it.": "Efekt trwały: Gdy zagrywasz kartę z symbolem przestrzeni kosmicznej, płacisz za nią o 2 MC mniej.",
@@ -95,7 +95,7 @@
 
     "Security Fleet": "Flota Obronna",
     "Action: Spend 1 titanium to add 1 fighter resource to this card.": "Akcja: Wydaj 1 jednostkę tytanu, żeby umieścić na tej karcie 1 jednostkę myśliwców.",
-    "1 VP for each fighter resource on this card.": "Otrzymujesz po 1 VP za każdą znajdującą się na tej karcie jednostkę myśliwców.",
+    "1 VP for each fighter resource on this card.": "Otrzymujesz po 1 PZ za każdą znajdującą się na tej karcie jednostkę myśliwców.",
 
     "Cupola City": "Miasto pod Kopułą",
     "Oxygen must be 9% or less. Place a City tile. Decrease your Energy production 1 step and increase your MC production 3 steps.": "Poziom Tlenu musi być równy albo niższy niż 9%. Umieść na planszy obszar miasta. Obniż swoją produkcję energii o 1 poziom i podnieś swoją produkcję MC o 3 poziomy.",
@@ -118,7 +118,7 @@
 
     "Ants": "Mrówki",
     "Action: Remove 1 Microbe from any card to add 1 to this card.": "Akcja: Usuń do 1 jednostkę mikrobów z innej karty dowolnego gracza i umieść ją na tej karcie.",
-    "Requires 4% oxygen. 1 VP per 2 Microbes on this card.": "Poziom Tlenu musi być równy albo wyższy niż 4%. Otrzymujesz 1 VP za każde 2 znajdujące się na tej karcie jednostki mikrobów.",
+    "Requires 4% oxygen. 1 VP per 2 Microbes on this card.": "Poziom Tlenu musi być równy albo wyższy niż 4%. Otrzymujesz 1 PZ za każde 2 znajdujące się na tej karcie jednostki mikrobów.",
 
     "Release of Inert Gases": "Wypuszczenie Gazów Obojętnych",
     "Raise your terraform rating 2 steps.": "Podnieś swój współczynnik terraformacji o 2.",
@@ -161,7 +161,7 @@
 
     "Tardigrades": "Niesporczaki",
     "Action: Add 1 Microbe to this card.": "Akcja: Umieść na tej karcie 1 jednostkę mikrobów.",
-    "1 VP per 4 Microbes on this card.": "Otrzymujesz po 1 VP za każde 4 znajdujące się na tej karcie jednostki mikrobów.",
+    "1 VP per 4 Microbes on this card.": "Otrzymujesz po 1 PZ za każde 4 znajdujące się na tej karcie jednostki mikrobów.",
 
     "Virus": "Wirus",
     "Remove up to 2 Animals or 5 Plants from any player.": "Usuń do 2 jednostek zwierząt albo do 5 jednostek roślinności dowolnego gracza.",
@@ -171,7 +171,7 @@
 
     "Fish": "Ryby",
     "Action: Add 1 Animal to this card.": "Akcja: Umieść na tej karcie 1 jednostkę zwierząt.",
-    "Requires +2 C or warmer. Decrease any Plant production 1 step. 1 VP for each Animal on this card.": "Temperatura musi być równa albo wyższa niż 2°C. Obniż produkcję roślinności dowolnego gracza o 1 poziom. Otrzymujesz po 1 VP za każdą znajdującą się na tej karcie jednostkę zwierząt.",
+    "Requires +2 C or warmer. Decrease any Plant production 1 step. 1 VP for each Animal on this card.": "Temperatura musi być równa albo wyższa niż 2°C. Obniż produkcję roślinności dowolnego gracza o 1 poziom. Otrzymujesz po 1 PZ za każdą znajdującą się na tej karcie jednostkę zwierząt.",
 
     "Lake Marineris": "Jezioro Marineris",
     "Requires 0 C or warmer. Place 2 ocean tiles.": "Temperatura musi być równa albo wyższa niż 0°C. Umieść na planszy 2 obszary oceanów.",
@@ -235,7 +235,7 @@
 
     "Birds": "Ptaki",
     "Action: Add an animal to this card.": "Akcja: Umieść na tej karcie 1 jednostkę zwierząt.",
-    "Requires 13% oxygen. Decrease any plant production 2 steps. 1 VP per Animal on this card.": "Poziom Tlenu musi być równy albo wyższy niż 13%. Obniż produkcję roślinności dowolnego gracza o 2 poziomy. Otrzymujesz po 1 VP za każdą znajdującą się na tej karcie jednostkę zwierząt.",
+    "Requires 13% oxygen. Decrease any plant production 2 steps. 1 VP per Animal on this card.": "Poziom Tlenu musi być równy albo wyższy niż 13%. Obniż produkcję roślinności dowolnego gracza o 2 poziomy. Otrzymujesz po 1 PZ za każdą znajdującą się na tej karcie jednostkę zwierząt.",
     
     "Mars University": "Uniwersytet Marsjański",
     "Effect: When you play a Science tag, including this, you may discard a card from hand to draw a card.": "Efekt trwały: Gdy zagrywasz kartę z symbolem nauki (z tą włącznie), za każdy symbol nauki na zagrywanej karcie możesz odrzucić kartę z ręki i dobrać nową kartę.",
@@ -263,7 +263,7 @@
     "Raise temperature 2 steps and place 2 ocean tiles. Remove up to 6 plants from any player.": "Podnieś Temperaturę o 4°C. Umieść na planszy 2 obszary oceanów. Usuń do 6 jednostek roślinności dowolnego gracza.",
 
     "Ganymede Colony": "Kolonia na Ganimedesie",
-    "Place a city tile ON THE RESERVED AREA. 1 VP per Jovian tag you have.": "Umieść obszar miasta na planszy, na polu zarezerwowanym dla Kolonii na Ganimedesie. Otrzymujesz po 1 VP za każdy posiadany symbol Jowisza.",
+    "Place a city tile ON THE RESERVED AREA. 1 VP per Jovian tag you have.": "Umieść obszar miasta na planszy, na polu zarezerwowanym dla Kolonii na Ganimedesie. Otrzymujesz po 1 PZ za każdy posiadany symbol Jowisza.",
 
     "Callisto Penal Mines": "Kolonia Karna na Kallisto",
     "Increase your MC production 3 steps.": "Podnieś swoją produkcję MC o 3 poziomy.",
@@ -275,7 +275,7 @@
 
     "Commercial District": "Dystrykt Handlowy",
     "Decrease your energy production 1 step and increase your MC production 4 steps.": "Obniż swoją produkcję energii o 1 poziom. Podnieś swoją produkcję MC o 4 poziomy.",
-    "Place this tile. 1 VP PER ADJACENT CITY TILE.": "Umieść ten obszar na planszy. Otrzymujesz po 1 VP za każdy obszar miasta sąsiadujący z tym obszarem.",
+    "Place this tile. 1 VP PER ADJACENT CITY TILE.": "Umieść ten obszar na planszy. Otrzymujesz po 1 PZ za każdy obszar miasta sąsiadujący z tym obszarem.",
 
     "Robotic Workforce": "Zautomatyzowana Siła Robocza",
     "Duplicate only the production box of one of your building cards.": "Skopiuj premię do produkcji z dowolnej ze swoich zagranych kart z symbolem budowli (automatycznych albo aktywnych).",
@@ -296,7 +296,7 @@
     "Requires 3 science tags. Increase your MC production 2 steps.": "Musisz posiadać przynajmniej 3 symbole nauki. Podnieś swoją produkcję MC o 2 poziomy.",
 
     "IO Mining Industries": "Przemysł Górniczy na IO",
-    "Increase your titanium production 2 steps and your MC production 2 steps. 1 VP per Jovian tag you have.": "Podnieś swoją produkcję tytanu i MC o 2 poziomy. Otrzymujesz po 1 VP za każdy posiadany symbol Jowisza.",
+    "Increase your titanium production 2 steps and your MC production 2 steps. 1 VP per Jovian tag you have.": "Podnieś swoją produkcję tytanu i MC o 2 poziomy. Otrzymujesz po 1 PZ za każdy posiadany symbol Jowisza.",
 
     "Bushes": "Krzewy",
     "Requires -10 C or warmer. Increase your plant production 2 steps. Gain 2 plants.": "Temperatura musi być równa albo wyższa niż -10°C. Podnieś swoją produkcję roślinności o 2 poziomy. Otrzymujesz 2 jednostki roślinności.",
@@ -307,7 +307,7 @@
 
     "Physics Complex": "Kompleks Fizyki Jądrowej",
     "Action: Spend 6 Energy to add a science resource to this card.": "Akcja: Wydaj 6 jednostek energii, żeby umieścić na tej karcie 1 jednostkę nauki.",
-    "2 VP for each science resource on this card.": "Otrzymujesz po 2 VP za każdą znajdującą się na tej karcie jednostkę nauki.",
+    "2 VP for each science resource on this card.": "Otrzymujesz po 2 PZ za każdą znajdującą się na tej karcie jednostkę nauki.",
 
     "Greenhouses": "Szklarnie",
     "Gain 1 plant for each city tile in play.": "Otrzymujesz po 1 jednostce roślinności za każdy obszar miasta na planszy.",
@@ -413,7 +413,7 @@
 
     "Ecological Zone": "Strefa Ekologiczna",
     "Effect: When you play an animal or plant tag (including these), add an animal to this card.": "Efekt trwały: Za każdy zagrywany przez Ciebie symbol zwierząt lub roslinności (z tymi włącznie), umieść 1 jednostkę zwierząt na tej karcie.",
-    "Requires that you have a greenery tile. Place this tile adjacent to any greenery tile. 1 VP per 2 Animals on this card.": "Musisz posiadać przynajmniej 1 obszar zieleni. Umieść ten obszar na polu sąsiadującym z obszarem zieleni. Otrzymujesz po 1 VP za każde 2 jednostki zwierząt na tej karcie.",
+    "Requires that you have a greenery tile. Place this tile adjacent to any greenery tile. 1 VP per 2 Animals on this card.": "Musisz posiadać przynajmniej 1 obszar zieleni. Umieść ten obszar na polu sąsiadującym z obszarem zieleni. Otrzymujesz po 1 PZ za każde 2 jednostki zwierząt na tej karcie.",
 
     "Zeppelins": "Sterowce",
     "Requires 5% oxygen. Increase your MC production 1 step for each City tile ON MARS.": "Poziom Tlenu musi być równy albo wyższy niż 5%. Podnieś swoją produkcję MC o 1 poziom za każdy obszar miasta na Marsie.",
@@ -423,7 +423,7 @@
 
     "Decomposers": "Reducenci",
     "Effect: When you play an Animal, Plant, or Microbe tag, including this, add a Microbe to this card.": "Efekt trwały: Gdy zagrywasz kartę roślinności, mikrobów albo zwierząt (z tą włącznie), za każdy z tych symboli na zagrywanej karcie umieść na tej karcie 1 jednostkę mikrobów.",
-    "Requires 3% oxygen. 1 VP per 3 Microbes on this card.": "Poziom Tlenu musi być równy albo wyższy niż 3%. Otrzymujesz po 1 VP za każde 3 jednostki mikrobów znajdujące się na tej karcie.",
+    "Requires 3% oxygen. 1 VP per 3 Microbes on this card.": "Poziom Tlenu musi być równy albo wyższy niż 3%. Otrzymujesz po 1 Pz za każde 3 jednostki mikrobów znajdujące się na tej karcie.",
 
     "Fusion Power": "Energia Termojądrowa",
     "Requires 2 Power tags. Increase your Energy production 3 steps.": "Musisz posiadać przynajmniej 2 symbole energii. Podnieś swoją produkcję energii o 3 poziomy.",
