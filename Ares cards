@@ -2,5 +2,16 @@
     "Desperate Measures": "Depserackie Środki",
     "Effect: Place a bronze cube on a dust storm tile and raise oxygen 1 step, or place a bronze cube on an erosion tile and raise the temperature 1 step. The hazard tile with the bronze cube cannot be removed.": "Umieść brązową kostkę na kaflu burzy pyłowej i podnieś Poziom Tlenu o 1% albo umieść brązową kostkę na kaflu erozji i podnieś Temperaturę o 2°C. Kafel zagrożenia z brązową kostką nie może zostać usunięty.",
     
+    "Mining Area": "Obszar Górniczy",
+    "Place one of these tiles on an area with a steel or titanium placement bonus, ADJACENT TO ANOTHER OF YOUR TILES. This tile provides an ADJACENCY BONUS of the same resource as the area. Increase your production of that resource 1 step.": "Umieść ten obszar obok innych swoich obszarów, na polu zawierającym premię stali albo tytanu. Wybierz kafel z premią sąsiedztwa taką samą jak premia na wybranym polu. Podnieś swoją produkcję tego zasobu o 1 poziom. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje oznaczoną premię.",
+    
+    "Industrial Center": "Ośrodek Przemysłowy",
+    "Action: Spend 7 MC to increase your steel production 1 step.": "Akcja: Wydaj 7 MC, żeby podnieś swoją produkcję stali o 1 poziom.",
+    "Place this tile adjacent to a city tile. This tile grants an ADJACENCY BONUS of 1 steel.": "Umieść ten obszar na polu sąsiadującym z obszarem miasta. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 1 jednostkę stali.",
+    
+    "Marketing Experts",
+    "Effect: When an ADJACENCY BONUS is collected from a tile you own, you gain 1MC.": "Efekt trwały: Gdy którykolwiek z graczy otrzymuje premię zasobów za sąsiedztwo z twoim obszarem, otrzymujesz 1 MC.",
+    "Increase your MC production 1 step.": "Podnieś swoją produkcję MC o 1 poziom.",
+    
     
 }
