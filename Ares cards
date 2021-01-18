@@ -1,4 +1,5 @@
 {  
+
     "Desperate Measures": "Depserackie Środki",
     "Effect: Place a bronze cube on a dust storm tile and raise oxygen 1 step, or place a bronze cube on an erosion tile and raise the temperature 1 step. The hazard tile with the bronze cube cannot be removed.": "Umieść brązową kostkę na kaflu burzy pyłowej i podnieś Poziom Tlenu o 1% albo umieść brązową kostkę na kaflu erozji i podnieś Temperaturę o 2°C. Kafel zagrożenia z brązową kostką nie może zostać usunięty.",
     
@@ -69,5 +70,14 @@
     "Ocean City": "Miasto na Oceanie",
     "Requires 6 ocean tiles. Decrease your Energy production 1 step and increase your MC production 3 steps. Place this tile on top of an existing ocean tile, IGNORING NORMAL PLACEMENT RESTRICTIONS FOR CITIES. The tile counts as a city as well as an ocean.": "Na planszy musi znajdować się przynajmniej 6 obszarów oceanów. Obniż swoją produkcję energii o 1 poziom. Podnieś swoją produkcję MC o 3 poziomy. Umieść ten specjalny obszar miasta na istniejącym obszarze oceanu, ignorując normalne ograniczenia umieszczania miast. Ten obszar liczy się jako obszar miasta i obszar oceanu.",
     
-    "
+    "Lava Flows": "Strumienie Lawy",
+    "Raise temperature 2 steps and place this tile ON EITHER THARSIS THOLUS, ASCRAEUS MONS, PAVONIS MONS OR ARSIA MONS. This tile grants an ADJACENCY BONUS of 2 heat.": "Podnieś Temperaturę o 4°C. Umieść ten obszar na jednym z wymienionych obszarów: THARSIS THOLUS, ASCRAEUS MONS, PAVONIS MONS, ARSIA MONS. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 2 jednostki ciepła.",
+    
+    "Mohole Area": "Obszar Mohole",
+    "Increase your heat production 4 steps. Place this tile ON AN AREA RESERVED FOR OCEAN. The tile grants an ADJACENCY BONUS of 2 heat.": "Umieść ten obszar na polu zarezerwowanym dla oceanu. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 2 jednostki ciepła. Podnieś swoją produkcję ciepła o 4 poziomy.",
+    
+    "Capital": "Stolica",
+    "1 ADDITIONAL VP FOR EACH OCEAN TILE ADJACENT TO THIS CITY TILE.": "OTRZYMUJESZ PO 1 PZ ZA KAŻDY OBSZAR OCEANU SĄSIADUJĄCY Z TYM OBSZAREM.",
+    "Requires 4 ocean tiles. Place tile with ADJACENCY BONUS of 2MC. Energy prod -2 and MC prod +5.": "Na planszy muszą się znajdować przynajmniej 4 obszary oceanów. Obniż swoją produkcję energii o 2 poziomy. Podnieś swoją produkcję MC o 5 poziomów. Umieść ten obszar na planszy. Gdy dowolny gracz umieści obszar obok tego obszaru, otrzymuje 2 MC.",
+    
 }
