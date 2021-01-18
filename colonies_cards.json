@@ -124,43 +124,45 @@
     "Solar Reflectors": "Reflektory Słoneczne",
     "Increase your heat production 5 steps.": "Podnieś swoją produkcję ciepła o 5 poziomów.",
     
-    "Space Port": "Космопорт",
-    "Requires 1 colony. Decrease your Energy production 1 step and increase your MC production 4 steps. Place a City tile. Gain 1 Trade Fleet.": "Требует 1 колонию. Уменьшите своё производство на 1 и увеличьте своё производство МС на 4. Постройте Город. Получите 1 торговый флот",
+    "Space Port": "Kosmoport",
+    "Requires 1 colony. Decrease your Energy production 1 step and increase your MC production 4 steps. Place a City tile. Gain 1 Trade Fleet.": "Musisz posiadać przynajmniej 1 kolonię. Otrzymujesz 1 flotę handlową. Umieść na planszy obszar miasta. Obniż swoją produkcję energii o 1 poziom i podnieś swoją produkcję MC o 4 poziomy.",
     
-    "Space Port Colony": "Колония-космопорт",
-    "Requires a colony. Place a colony. MAY BE PLACED ON A COLONY TILE WHERE YOU ALREADY HAVE A COLONY. Gain 1 Trade Fleet. 1VP per 2 colonies in play.": "Требует 1 колонию. Постройте колонию даже там где уже имеете колонию. Получите 1 торговый флот. 1 ПО за каждые 2 колонии в игре",
+    "Space Port Colony": "Kolonia z Kosmoportem",
+    "Requires a colony. Place a colony. MAY BE PLACED ON A COLONY TILE WHERE YOU ALREADY HAVE A COLONY. Gain 1 Trade Fleet. 1VP per 2 colonies in play.": "Musisz posiadać przynajmniej 1 kolonię. Umieść 1 kolonię na kaflu obiektu. Możesz ją umieścić na obiekcie, na którym masz już kolonię. Otrzymujesz 1 flotę handlową. Otrzymujesz 1 PZ za każde 2 kolonie w grze.",
     
-    "Spin-off Department": "Дочерний отдел",
-    "Effect: WHEN PLAYING A CARD WITH A BASIC COST OF 20MC OR MORE, draw a card.": "Эффект: Разыгрывая карту с базовой стоимостью 20 и больше, добирайте 1 карту",
-    "Increase your MC production 2 steps.": "Увеличьте своё производство МС на 2",
+    "Spin-off Department": "Spółka Spin Off",
+    "Effect: WHEN PLAYING A CARD WITH A BASIC COST OF 20MC OR MORE, draw a card.": "Efekt trwały: Gdy zagrywasz kartę o podstawowym koszcie wynoszącym 20 MC lub więcej, dobierz kartę.",
+    "Increase your MC production 2 steps.": "Podnieś swoją produkcję MC o 2 poziomy.",
     
-    "Sub-Zero Salt Fish": "",
-    "Action: Add 1 Animal to this card.": "",
-    "Requires -6 C. Decrease any Plant production 1 step. 1 VP per 2 Animals on this card.": "",
+    "Sub-Zero Salt Fish": "Słonowodne Ryby Zimnolubne",
+    "Action: Add 1 Animal to this card.": "Akcja: Umieść na tej karcie 1 jednostkę zwierząt.",
+    "Requires -6 C. Decrease any Plant production 1 step. 1 VP per 2 Animals on this card.": "Temperatura musi być równa albo wyższa niż -6°C. Obniż produkcję roślinności dowolnego gracza o 1 poziom. Otrzymujesz 1 PZ za każde 2 jednostki zwierząt znajdujące się na tej karcie.",
     
-    "Titan Air-scrapping": "Очистка воздуха Титана",
-    "Action: Spend 1 titanium to add 2 floaters here, or spend 2 floaters here to increase your TR 1 step.": "Действие: Потратьте 1 титан, чтобы добавить сюда 2 аэростата или увеличить свой РТ на 1",
+    "Titan Air-scrapping": "Zagarnianie Atmosfery na Tytanie",
+    "Action: Spend 1 titanium to add 2 floaters here, or spend 2 floaters here to increase your TR 1 step.": "Akcja: Wydaj 1 jednostkę tytanu, aby umieścić na tej karcie 2 jednostki dryfowców, albo wydaj 2 jednostki dryfowców z tej karty, aby podnieść swój WT o 1 poziom.",
     
-    "Titan Floating Launch-Pad": "Летающая платформа",
-    "Action: Add 1 floater to ANY JOVIAN CARD, or spend 1 floater here to trade for free.": "Действие: Добавьте 1 аэростат на любую катру с меткой Юпитера или потратьте 1 аэростат, чтобы бесплатно поторговать с колонией",
-    "Add two floaters to ANY JOVIAN CARD.": "+2 аэростата на любую карту с меткой Юпитера",
+    "Titan Floating Launch-Pad": "Dryfujące Lądowisko na Tytanie",
+    "Action: Add 1 floater to ANY JOVIAN CARD, or spend 1 floater here to trade for free.": "Akcja: Umieść 1 jednostkę dryfowców na dowolnej karcie z symbolem Jowisza albo wydaj 1 jednostkę dryfowców z tej karty, aby wykonać akcję handlu z obiektem za darmo.",
+    "Add two floaters to ANY JOVIAN CARD.": "Umieść 2 jednostki dryfowców na dowolnej karcie z symbolem Jowisza.",
     
-    "Titan Shuttles": "Челноки с Титана",
-    "Action: Add 2 floaters to ANY JOVIAN CARD, or spend any number of floaters here to gain the same number of titanium.": "Действие: Добавьте 2 аэростата на любую карту с меткой Юпитера или сбросьте N аэростатов отсюда, чтобы получить N титана",
+    "Titan Shuttles": "Wahadłowce na Tytanie",
+    "Action: Add 2 floaters to ANY JOVIAN CARD, or spend any number of floaters here to gain the same number of titanium.": "Akcja: Umieść 2 jednostki dryfowców na dowolnej karcie z symbolem Jowisza albo wydaj dowolną liczbę jednostek dryfowców z tej karty, aby otrzymać tyle samo jednostek tytanu.",
     
-    "Trade Envoys": "Торговый агент",
-    "Effect: When you trade, you may first increase that Colony Tile track 1 step.": "Эффект: Торгуя с колонией, сначала увеличьте трек этой колонии на 1",
+    "Trade Envoys": "Przedstawiciele Handlowi",
+    "Effect: When you trade, you may first increase that Colony Tile track 1 step.": "Efekt trwały: Gdy wykonujesz akcję handlu z obiektem, najpierw przesuń biały znacznik obiektu o 1 pole w prawo na torze kolonii.",
     
-    "Trading Colony": "Торговая колония",
+    "Trading Colony": "Kolonia Handlowa",
+    "Effect: When you trade, you may first increase that Colony Tile track 1 step.": "Efekt trwały: Gdy wykonujesz akcję handlu z obiektem, najpierw przesuń biały znacznik obiektu o 1 pole w prawo na torze kolonii.",
+    "Place a colony": "Umieść 1 kolonię na kaflu obiektu.",
     
-    "Urban Decomposers": "Городские редуценты",
-    "Requires that you have 1 city tile and 1 colony in play. Increase your plant production 1 step, and add 2 microbes to ANOTHER card.": "Требует наличия у вас хотя бы 1 города и 1 колонии. Увеличьте своё произвоство растений на 1 и добавьте 2 микроба на другую карту",
+    "Urban Decomposers": "Miejscy Reducenci",
+    "Requires that you have 1 city tile and 1 colony in play. Increase your plant production 1 step, and add 2 microbes to ANOTHER card.": "Musisz posiadać przynajmniej 1 obszar miasta i 1 kolonię. Podnieś swoją produkcję roślinności o 1 poziom i umieść 2 jednostki mikrobów na dowolnej karcie.",
     
-    "Warp Drive": "Варп-двигатель",
-    "Effect: When you play a Space card, you pay 4 MC less for it.": "Эффект: Тратьте розыгрыш карт с меткой космоса на 4 МС меньше",
-    "Requires 5 Science tags.": "Требует 5 меток Науки",
+    "Warp Drive": "Napęd Warp",
+    "Effect: When you play a Space card, you pay 4 MC less for it.": "Efekt trwały: Gdy zagrywasz kartę z symbolem przestrzeni kosmicznej, płacisz za nią o 4 MC mniej.",
+    "Requires 5 Science tags.": "Musisz posiadać przynajmniej 5 symboli nauki.",
     
-    "Colony City": "Колония Город",
-    "max 1 Colony": "max 1 Колония",
-    "2 Cities": "2 Города"
+    "Colony City": "Kolonia Miasto",
+    "max 1 Colony": "max 1 Kolonia",
+    "2 Cities": "2 obszary miasta"
 }
