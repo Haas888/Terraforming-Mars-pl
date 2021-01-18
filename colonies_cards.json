@@ -1,26 +1,26 @@
 {
-    "Airliners": "Авиалайнеры",
-    "Requires that you have 3 floaters. Increase your MC production 2 steps. Add 2 floaters to ANY card.": "",
+    "Airliners": "Dryfowce Pasażerskie",
+    "Requires that you have 3 floaters. Increase your MC production 2 steps. Add 2 floaters to ANY card.": "Musisz posiadać przynajmniej 3 jednostki dryfowców. Podnieś swoją produkcję MC o 2 poziomy. Umieść 2 jednostki dryfowców na dowolnej karcie.",
     
-    "Air Raid": "Авианалёт",
-    "Requires that you lose 1 floater. Steal 5 MC from any player.": "Сбросьте 1 аэростат. Украдите 5МС у любого игрока",
+    "Air Raid": "Podniebny Rajd",
+    "Requires that you lose 1 floater. Steal 5 MC from any player.": "Odrzuć 1 jednostkę dryfowców. Ukradnij dowolnemu graczowi 5 MC.",
     
-    "Atmo Collectors": "Сбор атмосферы",
-    "Action: Add 1 floater here, or spend 1 floater here to gain 2 titanium, or 3 energy, or 4 heat.": "Добавьте 1 аэростат сюда или потратьте 1 аэростат отсюда, чтобы получить на выбор 2 титана, 3 энергии или 4 тепла",
-    "Add 2 floaters to ANY card.": "Добавьте 2 аэростата на ЛЮБУЮ карту",
+    "Atmo Collectors": "Zagarniacze Atmosfery",
+    "Action: Add 1 floater here, or spend 1 floater here to gain 2 titanium, or 3 energy, or 4 heat.": "Akcja: Umieść 1 jednostkę dryfowców na tej karcie albo wydaj z tej karty 1 jednostkę dryfowców, aby otrzymać 2 jednostki tytanu, 3 jednostki energii albo 4 jednostki ciepła.",
+    "Add 2 floaters to ANY card.": "Umieść 2 jednostki dryfowców na dowolnej karcie.",
     
-    "Community Services": "Общественная работа",
-    "Increase your MC production 1 step per CARD WITH NO TAGS, including this.": "Увеличьте своё производство МС за каждую карту без тегов, включая эту",
+    "Community Services": "Usługi Społeczne",
+    "Increase your MC production 1 step per CARD WITH NO TAGS, including this.": "Podnieś swoją produkcję MC o 1 poziom za każdą posiadaną kartę bez symboli (z tą włącznie).",
     
-    "Conscription": "Мобилизация",
-    "NEXT CARD:": "След. карта:",
-    "Requires 2 Earth tags. The next card you play this generation costs 16 MC less.": "Требует 2 метки земли. Заплатите за следующую карту, которую сыграете в этом поколении на 16 МС меньше",
+    "Conscription": "Pobór",
+    "NEXT CARD:": "NASTĘPNA KARTA:",
+    "Requires 2 Earth tags. The next card you play this generation costs 16 MC less.": "Musisz posiadać przynajmniej 2 symbole ziemi. Nastepna zagrana przez Ciebie podczas tego pokolenia karta będzie kosztować o 16 MC mniej.",
     
-    "Corona Extractor": "Сбор солнечной плазмы",
-    "Requires 4 science tags. Increase your energy production 4 steps.": "Требует 4 метки Науки. Увеличьте своё производство энергии на 4",
+    "Corona Extractor": "Ekstraktor Korony",
+    "Requires 4 science tags. Increase your energy production 4 steps.": "Musisz posiadać przynajmniej 4 symbole nauki. Podnieś swoją produkcję energii o 4 poziomy.",
     
-    "Cryo Sleep": "Криогенный сон",
-    "Effect: When you trade, you pay 1 less resource for it.": "Эффект: Торгуя с колониями, платите на 1 ресурс меньше",
+    "Cryo Sleep": "Hibernacja",
+    "Effect: When you trade, you pay 1 less resource for it.": "Efekt trwały: Gdy wykonujesz akcję handlu z obiektem, płacisz o 1 jednostkę zasobów mniej.",
     
     "Earth Elevator": "Орбитальный лифт",
     "Increase your titanium production 3 steps.": "Увеличьте своё производство титана на 3",
