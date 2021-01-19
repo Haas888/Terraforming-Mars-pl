@@ -6,9 +6,9 @@
     "As your first action, draw a blue card.": "W ramach swojej pierwszej akcji w grze dobierz aktywną (niebieską) kartę.",
     "Action: Flip and discard a played blue card to convert any VP on it into TR and draw 2 cards, or spend 3 MC to draw a blue card.": "Akcja: Odwróć i odrzuć zagraną aktywną (niebieską) kartę, żeby otrzymać tyle WT, ile PZ miała odrzucona karta. Dobierz 2 karty albo wydaj 3 MC, żeby dobrać niebieską kartę.",
     
-    "You start with 32 MC. As your first action, place two delegates in one party.": "Вы начинаете с 32 МС. Первым действием разместите 2 делегатов в одной из партий",
-    "Effect: You have influence +1. When you send a delegate from the reserve, you pay 2 MC less for it.": "Эффект: Ваше влияние 1. Когда вы отправляете делегата из резерва платите на 2 MC меньше",
-    "Action: Replay a played event from any player by paying its cost ONLY in MC (discounts and rebates apply), then REMOVE IT FROM PLAY.)": "Действие: Разыграйте уже сыгранную любым игроком карту-событие оплатив ее стоимость только в МC (скидки работают). Затем удалите ее из игры",
+    "You start with 32 MC. As your first action, place two delegates in one party.": "Rozpoczynasz grę z 32 MC. W ramach swojej pierwszej akcji w grze umieść dwóch delegatów w wybranej partii.",
+    "Effect: You have influence +1. When you send a delegate from the reserve, you pay 2 MC less for it.": "Efekt trwały: Otrzymujesz 1 punkt wpływów. Gdy korzystasz z akcji Lobbingu, żeby przesunąć znacznik delegata z rezerwy delegatów, płacisz za to 2 MC mniej.",
+    "Action: Replay a played event from any player by paying its cost ONLY in MC (discounts and rebates apply), then REMOVE IT FROM PLAY.)": "Akcja: Ponownie zagraj wykorzystaną kartę wydarzenia dowolnego gracza, płacąc za nią wyłącznie za pomocą MC (wliczając wszelkie zniżki), a nastepnie usuń ją z gry.",
     
     "You start with 38 MC and 1 Energy production.": "Вы начинаете с 38 МС и 1 производством энергии",
     "Select event card to replay at cost in MC and remove from play": "Выберите карту-событие, чтобы разыграть за полную стоимость в МС, а потом удалить ее из игры"
