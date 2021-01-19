@@ -10,6 +10,13 @@
     "Pluto": "Pluton",
     "Titan": "Tytan",
     "Triton": "Tryton",
+    "Leavitt": "Stacja Leavitt",
+    "Titania": "Tytania",
+    "Venus": "Wenus",
+    "Hygiea": "Hygiea",
+    "Iapetus": "Japet",
+    "Mercury": "Merkury",
+    "Pallas": "Pallas",
 
     "Select colony tile to remove": "Wybierz kafel obiektu, który chcesz odrzucić",
     "Colony Bonus": "Premia Kolonialna",
@@ -17,6 +24,11 @@
     "Select colony": "Wybierz kolonię",
 
     "Trade Income: Gain the indicated production": "Dochód z Handlu: Zwiększ poziom przedstawionej produkcji",
+    "REVEAL TOP CARD OF DECK. BUY OR DISCARD IT.": "ODKRYJ WIERZCHNIĄ KARTĘ Z TALII PROJEKTÓW. KUP JĄ ALBO ODRZUĆ.",
+    "TRADE INCOME: DRAW X CARDS AND KEEP 1": "DOCHÓD Z HANDLU: DOBIERZ X KART I ZACHOWAJ 1",
+    "TRADE INCOME: STEAL 3 INDICATED RESOURCES": "DOCHÓD Z HANDLU: UKRADNIJ 3 PRZEDSTAWIONE SUROWCE",
+    "COPY TRADE": "SKOPIUJ HANDEL",
+    "Party": "Partia",
 
     "Select one option": "Wybierz jedną z dostępnych opcji",
     "Callisto - (Energy)": "Kallisto - (Energia)",
@@ -29,6 +41,13 @@
     "Miranda - (Animals)": "Miranda - (Zwierzęta)",
     "Pluto - (Cards)": "Pluton - (Karty)",
     "Titan - (Floaters)": "Tytan - (Dryfowce)",
-    "Triton - (Titanium)": "Tryton - (Tytan)"
+    "Triton - (Titanium)": "Tryton - (Tytan)",
+    "Leavitt - (Science)": "Stacja Leavitt - (Nauka)",
+    "Titania - (VP)": "Tytania - (PZ)",
+    "Venus - (Venus)": "Wenus - (Wenus)",
+    "Hygiea - (Attack)": "Hygiea - (Atak)",
+    "Iapetus - (TR)": "Japet - (WT)",
+    "Mercury - (Production)": "Merkury - (Produkcja)",
+    "Pallas - (Politics)": "Pallas - (Polityka)",
 
 }
