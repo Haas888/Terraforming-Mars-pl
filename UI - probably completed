@@ -165,6 +165,10 @@
     "TOGGLE TAGS VIEW:": "PRZEŁĄCZ WIDOK SYMBOLI:",
     "CONCISE": "ZWIĘZŁE",
     "FULL": "WSZYSTKIE",
+    "active": "aktywny",
+    "You": "Ty",
+    "GENERATION 1 OF 12": "POKOLENIE ${0} Z ${1}",
+    "PRELUDE": "PRELUDIUM",
 
     
     "Select which cards to take into hand": "Wybierz karty, które weźmiesz na rękę",
@@ -240,6 +244,7 @@
     "Select prelude card to play": "Wybierz kartę preludium do zagrania",
     "Pay trade fee": "Uiść opłatę handlową",
     "Select colony tile for trade": "Wybierz kafel obiektu, z którym będziesz handlować",
+    "Standard projects": "Standardowe projekty",
     "Pass for this generation": "Spasuj w tym pokoleniu",
     "Confirm": "Potwierdź",
     "Increase": "Zwiększ",
